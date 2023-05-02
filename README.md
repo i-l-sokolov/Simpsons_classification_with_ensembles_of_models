@@ -51,8 +51,8 @@ In the image, the percentage of incorrectly classified pictures is displayed.
 Each row represents a class, while each column corresponds to a specific model. 
 Red borders denote the models chosen for the ensemble, and blue borders highlight the ensemble's overall performance.
 
-<img src="pics/clustermap_with_ensemble.png" alt="Image 2" style="width: 50%;">
+<img src="pics/clustermap_with_ensemble.png" alt="Image 2" style="width: 100%;">
 
 The accuracy of all model are on picture. The blue for selected and red for ensemble
 
-<img src="pics/comparison_res.png" alt="Image 2" style="width: 50%;">
+<img src="pics/comparison_res.png" alt="Image 2" style="width: 100%;">
